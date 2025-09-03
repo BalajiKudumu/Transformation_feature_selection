@@ -1,4 +1,4 @@
-# Feature Selection and Transformation
+# Feature Selection and Transformations
 
 This repository contains code for **Feature Selection** and **Feature Transformation (Scaling & Normalization)** using Python libraries like Pandas, Matplotlib, Seaborn, and Scikit-learn.
 
